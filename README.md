@@ -38,7 +38,7 @@
     </a>
 </p>
 <a href="https://github.com/IbrahimGeba/github-readme-stats"><img alt="IbrahimGeba's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IbrahimGeba&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/IbrahimGeba/github-readme-stats"><img alt="IbrahimGeba's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimGeba&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 
 <br>
 <div align="center">
@@ -49,22 +49,22 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
+    <a href="www.linkedin.com/in/ibrahim-abdullah-ab6659215/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:ammarfathy516@gmail.com">
+  <a href="engibrahim927@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://mostaql.com/u/IbrahimGeba/portfolio">
+        <a href="https://github.com/IbrahimGeba/IbrahimGeba/edit/main/README.md">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-    <a href="https://youtube.com/@IbrahimGeba91?si=bHNizIHn9dIL3jX7">
+<!--     <a href="https://youtube.com/@IbrahimGeba91?si=bHNizIHn9dIL3jX7">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-     </a>
-     <a href="https://t.me/IbrahimGeba">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  </a> -->
+<!--      </a>
+     <a href="https://w.me/01063180581">
+    <img src="https://img.shields.io/badge/Whatsapp?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a> -->
 </div>
 
 <br>
